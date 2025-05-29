@@ -10,9 +10,9 @@ Projeto desenvolvido para a disciplina de Eletricidade Aplicada.
 
 ## Objetivo
 Desenvolver um sistema integrado com:
-- **Catraca inteligente**
-- **Controle de acesso veicular**
-- **Radar de velocidade**
+- Catraca inteligente
+- Controle de acesso veicular
+- Radar de velocidade
 
 O projeto visa garantir maior segurança, controle de tráfego e agilidade em cobranças de pedágios, utilizando microcontroladores e sensores de baixo custo.
 
@@ -33,8 +33,12 @@ O projeto visa garantir maior segurança, controle de tráfego e agilidade em co
 O custo total estimado dos componentes utilizados é de aproximadamenteR$ 170,00.
 
 ## Cronograma
-- Apresentação teórica: 11 de junho de 2025
-- Apresentação prática: 16 de julho de 2025
+18/04/2025 - 21/04/2025  Termo de Abertura do Projeto - TAP
+14/05/2025 - 28/05/2025  Planejamento
+27/05/2025 - 03/06/2025  Pesquisa por Tecnologia de Ponta
+11/06/2025               Apresentação da Teoria do Projeto 
+16/07/2025               Apresentação Prática do Projeto 
+
 
 ## Riscos Considerados
 - Falhas nos sensores ou no microcontrolador
